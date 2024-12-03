@@ -31,3 +31,10 @@
 - **test**: 테스트 코드 추가 또는 수정
 - **chore**: 빌드 작업, 패키지 매니저 설정 등
 - **perf**: 성능 향상을 위한 변경
+
+## 🔖 참고문헌
+교육부, 한국교육환경보호원. (2023). 2022년 학생건강검사 원자료
+- 학생건강검사_2022년_항목및코드북.xlsx
+- 학생건강검사_2022년_원자료(극단치제거).csv
+
+[https://schoolhealth.kr/web/srs/selectPublicDataList.do?bbsTyCode=pData&shNum=40&pageIndex=1&searchCnd=&searchWrd=&pageUnit=10&dataType=&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=4&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=1&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2](https://schoolhealth.kr/web/srs/selectRawDataList.do?bbsTyCode=rData&shNum=35&pageIndex=1&searchCnd=&searchWrd=&pageUnit=10&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=1&fileSeq=&fileListCnt=1)

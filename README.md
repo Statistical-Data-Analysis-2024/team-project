@@ -4,7 +4,7 @@
 
 ## 📚 프로젝트 개요
 
-이 프로젝트는 교육부 학생건강정보센터에서 제공하는 `학생건강검사_2022년_원자료(극단치제거).csv` 데이터를 활용하여 학생들의 건강 상태와 생활 습관 간의 관계를 탐색적으로 분석하는 것을 목표로 합니다.
+이 프로젝트는 교육부 학생건강정보센터에서 제공하는 `(최종) 2023 학생건강검사 데이터 공개자료.xlsx` 데이터를 활용하여 학생들의 건강 상태와 생활 습관 간의 관계를 탐색적으로 분석하는 것을 목표로 합니다.
 
 ## 🛠️ 사용 기술
 
@@ -29,8 +29,9 @@
 - **perf**: 성능 향상을 위한 변경
 
 ## 🔖 참고자료
-교육부, 한국교육환경보호원. (2023). 2022년 학생건강검사 원자료
-- 학생건강검사_2022년_항목및코드북.xlsx
-- 학생건강검사_2022년_원자료(극단치제거).csv
+교육부, 한국교육환경보호원. (2024). 2023년 학생건강검사 원자료
+- 2023년 학생건강검사 항목 및 코드북.xlsx
+- (최종) 2023 학생건강검사 데이터 공개자료.xlsx
 
-[https://schoolhealth.kr/web/srs/selectPublicDataList.do?bbsTyCode=pData&shNum=40&pageIndex=1&searchCnd=&searchWrd=&pageUnit=10&dataType=&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=4&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=1&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2](https://schoolhealth.kr/web/srs/selectRawDataList.do?bbsTyCode=rData&shNum=35&pageIndex=1&searchCnd=&searchWrd=&pageUnit=10&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=1&fileSeq=&fileListCnt=1)
+https://schoolhealth.kr/web/srs/selectRawDataList.do?bbsTyCode=rData&shNum=41&pageIndex=1&searchCnd=&searchWrd=&pageUnit=10&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=1&fileSeq=&fileListCnt=1
+https://schoolhealth.kr/web/srs/selectPublicDataList.do?bbsTyCode=pData&shNum=42&pageIndex=1&searchCnd=&searchWrd=&pageUnit=10&dataType=&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=4&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=1&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=3&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2&fileSeq=&fileListCnt=2
